@@ -1,7 +1,7 @@
 /*
 Module Name: Assign_ArraySearch
 Date Written: 11/22/2020
-Author: Xiaoyao Li
+Author: 
 Module Design Description: search a set of numbers in an array 
 Inputs:
 	set of numbers to be searched in, and numbers to be searched for
