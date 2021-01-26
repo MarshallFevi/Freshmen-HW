@@ -1,7 +1,7 @@
 /*
 Module Name: Time Calculation 
 Date Written: 9/13/2020
-Author: Xiaoyao Li
+Author: 
 Module Purpose: Being able to perform math calculations as well as use various function like cin efficiently. 
 Module Design Description: Converting second into other measurement for time. 
 Inputs:
