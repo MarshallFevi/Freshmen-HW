@@ -9,10 +9,10 @@ Inputs:
 Outputs:
 	Diamond with the height of ((user input*2)-1) and "Hello Comet" in the middle.
 Modification List:
-8/27/2020		Finished Coding the diamond.		Xiaoyao Li
-8/28/2020		Start Working on printing "Hello Comet".		Xiaoyao Li
-8/28/2020		Fixed bug where "Hello Comet" would print on the first row of the diamond more than once.		Xiaoyao Li
-8/30/2020		Fixed all bugs, code works as intended.			Xiaoyao Li
+8/27/2020		Finished Coding the diamond.		
+8/28/2020		Start Working on printing "Hello Comet".		
+8/28/2020		Fixed bug where "Hello Comet" would print on the first row of the diamond more than once.		
+8/30/2020		Fixed all bugs, code works as intended.			
 */
 #include<string>
 #include<iostream>
