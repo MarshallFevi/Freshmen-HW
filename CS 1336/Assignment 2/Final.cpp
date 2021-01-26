@@ -8,9 +8,9 @@ Inputs:
 Outputs:
 	Multiple types of results
 Modification List:
-9/2/2020 - Finished multiple parts of the code. (Very janky, and a total mess) Xiaoyao Li 
-9/3/2020 - Fixed part 7 where float result isn't displaying properly. Tidied up  the code. Xiaoyao Li
-9/4/2020 - Added Bool part. Fixed Float isn't displaying .0000. Xiaoyao Li
+9/2/2020 - Finished multiple parts of the code. (Very janky, and a total mess) 
+9/3/2020 - Fixed part 7 where float result isn't displaying properly. Tidied up  the code. 
+9/4/2020 - Added Bool part. Fixed Float isn't displaying .0000. 
 9/5/2020 - Finished. 
 */
 #include<string>
