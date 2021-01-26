@@ -1,7 +1,7 @@
 /*
 Module Name: Hello World Diamond
 Date Written: 9/2/2020 
-Author: ******
+Author: 
 Module Design Description:
 	Create a diamond with the text" Hello Comet" in the middle.
 Outputs:
