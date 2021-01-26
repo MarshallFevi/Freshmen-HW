@@ -2,7 +2,7 @@
 Module Name: Prime Number
 Date: 2020-10-26
 Author:
-Xiaoyao Li
+
 Module Purpose
     outputting all the prime number up to the user input
 Module Design Description
