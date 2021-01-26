@@ -1,7 +1,7 @@
 /*
 Module Name: Arithmetics String 
 Date Written: 9/5/2020
-Author: Xiaoyao Li
+Author: 
 Module Design Description: Converting int to other various variables, as well as combining and performing basic math calculations. 
 Inputs:
 	intergers, decimals, words.
