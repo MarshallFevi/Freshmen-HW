@@ -2,7 +2,7 @@
 Module Name: Rock Paper Scissors 
 Date: 2020-9-27
 Author:
-Xiaoyao Li
+
 Module Purpose
     To play rock paper scissors versus the computer.
 Module Design Description
@@ -12,7 +12,7 @@ Inputs:
 Outputs:
     Results of game with a working scoreboard and the chosen weapon of both party.
 Modification:
-    2020-9-30 Wrote the code with the Professor's way and changed someparts to fit with the hw. document. XL
+    2020-9-30 Wrote the code with the Professor's way and changed someparts to fit with the hw. document. 
 */
 
 
